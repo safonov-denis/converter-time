@@ -1,0 +1,45 @@
+.timestamp-widget {
+    margin: 20px;
+    padding: 20px;
+    background-color: #282c3429;
+    border-radius: 20px;
+  }
+  
+  .timestamp-widget h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .timestamp-widget input {
+    font-size: 15px;
+    padding: 10px;
+    border: rgba(91, 90, 90, 0.391);
+  }
+  
+  .timestamp-widget button {
+    font-size: 15px;
+    padding: 10px 44px;
+    background-color: #61dafb;
+    color: #282c34;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .timestamp-widget div {
+    margin-top: 10px;
+    font-size: 16px;
+    white-space: pre-line;
+    align-items: center;
+  }
+  
+  .dark .timestamp-widget {
+    background-color: #8c8c8c22;
+    color: white;
+  }
+  
+  .dark {
+    color: white;
+  }
+
+  
